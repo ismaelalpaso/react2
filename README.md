@@ -1,3 +1,5 @@
+![Captura de pantalla 2023-10-24 104117](https://github.com/ismaelalpaso/react2/assets/114246096/ea9b70d8-c754-44f9-ad16-4d29c05a4a5c)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
